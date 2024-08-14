@@ -12,9 +12,7 @@
 演示地址：[https://dg.gitapp.cn](https://dg.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_dg
 
 
 ## 主要功能
